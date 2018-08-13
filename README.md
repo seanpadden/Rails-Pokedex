@@ -2,8 +2,10 @@
 
 Hello there! Welcome to the world of Pokémon!
 
-My name is Oak! People call me the Pokémon Prof! This world is inhabited by creatures called Pokémon!
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Professor_Oak.png" width="160" height="290">
 
+My name is Oak! People call me the Pokémon Prof!  
+This world is inhabited by creatures called Pokémon!  
 **All `Pokémon` have a `name`, `type` and `weight`**
 
 How would you like to help me out? I am currently working on the latest version of the Pokédex. It lets us catalogue any Pokémon you've seen or caught.
