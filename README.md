@@ -2,7 +2,7 @@
 
 Hello there! Welcome to the world of Pokémon!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Professor_Oak.png" width="160" height="290">
+<img src="https://cdn.bulbagarden.net/upload/8/84/Professor_Oak_XY.png" width="160" height="290">
 
 My name is Oak! People call me the Pokémon Prof!  
 This world is inhabited by creatures called Pokémon!  
