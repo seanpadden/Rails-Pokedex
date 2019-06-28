@@ -1,0 +1,13 @@
+<h1>Gotta catch 'em all</h1>
+
+<ul>
+  <% @pokemons.each do |pokemon| %>
+  <li><%= link_to pokemon.name, pokemon %></li>
+  <% end %>
+</ul>
+
+<h4>I want to...</h4>
+<ul>
+<li><%= link_to "Create my own", "/pokemons/new" %></li>
+
+</ul>

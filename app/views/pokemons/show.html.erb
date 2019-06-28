@@ -1,0 +1,14 @@
+<h1>I love this one</h1>
+
+<ul>
+<p>Name: <%= @pokemon.name %></p>
+<p>Weight: <%= @pokemon.weight %></p>
+<p>Type: <%= @pokemon.description %></p>
+</ul>
+
+<%= link_to "I want to go back", pokemons_path %>
+
+<%= link_to 'I want to evolve my Pokemon', edit_pokemon_path(@pokemon) %> 
+<%= button_to 'I want to pull a team rocket and DESTROY THIS POKEMON', @pokemon, method: :delete, data: { confirm: 'Are you sure?' } %>
+
+
